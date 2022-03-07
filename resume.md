@@ -19,7 +19,7 @@ I'm also personally contributing to OSS such as [Terraform Provider AWS](https:/
 
 I also write blogs actively to share knowledge internally and externally.
 
-## Professional Carrier
+## Professional Career
 
 Note that the change in affiliation from Quipper to Recruit is due to a reorganization of Recruit and is not a job change.
 
