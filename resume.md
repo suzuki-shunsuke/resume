@@ -128,7 +128,7 @@ https://github.com/suzuki-shunsuke/profile#blog
 ## Contribute to OSS
 
 I contribute to various OSS, most notably [Terraform Docker Provider](https://github.com/kreuzwerker/terraform-provider-docker) and [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).
-The Terraform Docker Provider acts as a Collaborator.
+Especially, I contribute to Terraform Docker Provider as a Collaborator.
 
 [List of Contributions by Pull Request](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
 
