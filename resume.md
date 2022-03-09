@@ -48,7 +48,7 @@ The product is mainly running on AWS EKS, with some use of GCP.
 * Improve CI/CD of Ansible Monorepo
   * Accelerated CI, refactoring of .circleci/config.yml
 * Alert handling, Developer support, middleware upgrade as SRE
-* Implemente MongoDB Atlas restore jobs in Go
+* Implement MongoDB Atlas restore jobs in Go
 * Develop tools to resolve toils
 
 I have mentioned many things, but the most significant is the improvement of Terraform Monorepo.
