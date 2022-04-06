@@ -121,7 +121,7 @@ Drone は元々部署内向けに導入したものの、他部署でも利用�
 業務で行ったことを企業のブログで紹介したり、自分の OSS を個人のブログで紹介したりしています。
 日本語が中心ですが、海外の方にも OSS を使ってもらうため、英語でも書いています。
 
-https://github.com/suzuki-shunsuke/profile#blog
+https://suzuki-shunsuke.github.io/profile/blog
 
 ## OSS への貢献
 
@@ -129,7 +129,7 @@ https://github.com/suzuki-shunsuke/profile#blog
 Terraform Docker Provider では Collaborator として活動しています。
 Terraform AWS Provider では AWS AppConfig のサポートなどを行いました。
 
-[Pull Request による貢献のリスト](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
+[Pull Request による Contribution のリスト](https://suzuki-shunsuke.github.io/profile/oss-contribution)
 
 ## OSS の開発
 

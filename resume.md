@@ -123,14 +123,14 @@ I experienced a wide range of processes (design, development, testing, release) 
 I published what I did in my work on the corporate blog and my OSS on my personal blog.
 I write mostly in Japanese, but sometimes I also write in English.
 
-https://github.com/suzuki-shunsuke/profile#blog
+https://suzuki-shunsuke.github.io/profile/blog
 
 ## Contribute to OSS
 
 I contribute to various OSS, most notably [Terraform Docker Provider](https://github.com/kreuzwerker/terraform-provider-docker) and [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).
 Especially, I contribute to Terraform Docker Provider as a Collaborator.
 
-[List of Contributions by Pull Request](https://github.com/suzuki-shunsuke/profile#contribution-pull-request)
+[List of Contributions by Pull Request](https://suzuki-shunsuke.github.io/profile/oss-contribution)
 
 ## OSS Development
 
