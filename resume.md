@@ -4,18 +4,18 @@
 
 ## Summary
 
-I have been working as a software engineer for about 7 years and have experience in development and operation.
+I have been working as a software engineer for about seven years and have experience in development and operation.
 
-I joined Donuts as a web application engineer and developed web services for 2 years. I experienced a wide range of processes (Requirement definition, Design, Implementation, Testing, and Release) and technical areas (front-end, back-end, and infrastructure) in a small team.
+I joined Donuts as a web application engineer and developed web services for two years. I experienced various processes (Requirement definition, Design, Implementation, Testing, and Release) and technical areas (front-end, back-end, and infrastructure) in a small team.
 
 At LINE Corporation, I worked as a Corporate Engineer for 2.5 years and operated and developed internal systems.
-I have worked with packaged products such as Confluence and GitHub Enterprise, introduced OSS such as Drone and Prometheus, and developed systems using Python and Go.
+I have worked with packaged products such as Confluence and GitHub Enterprise, introduced OSS such as Drone and Prometheus, and developed systems with Python and Go.
 
-In my current position, I have been a member of the cross-product SRE team for 2.5 years, operating and developing platform for our own products which are working on Kubernetes on AWS.
+In my current position, I have been a member of the cross-product SRE team for 2.5 years, operating and developing a platform for our products which are working on Kubernetes on AWS.
 I develop tools and CI/CD pipelines so that the product team can perform development and release in a self-contained manner without SRE.
-In particular, I'm focusing on improving the Terraform Monorepo workflow to create an environment where product teams can safely and comfortably set up their own product infrastructure using Terraform.
+In particular, I'm focusing on improving the Terraform Monorepo workflow to create an environment where product teams can safely and comfortably set up their product infrastructure using Terraform.
 
-I'm also personally contributing to OSS such as [Terraform Provider AWS](https://github.com/hashicorp/terraform-provider-aws) and [Terraform Provider Docker](https://github.com/kreuzwerker/terraform-provider-docker) and developing OSS such as [tfcmt](https://github.com/suzuki-shunsuke/tfcmt), [aqua](https://aquaproj.github.io/), and [tfaction](https://github.com/suzuki-shunsuke/tfaction) to solve problems through software.
+I'm also contributing to OSS such as [Terraform Provider AWS](https://github.com/hashicorp/terraform-provider-aws) and [Terraform Provider Docker](https://github.com/kreuzwerker/terraform-provider-docker) and developing OSS such as [tfcmt](https://github.com/suzuki-shunsuke/tfcmt), [aqua](https://aquaproj.github.io/), and [tfaction](https://github.com/suzuki-shunsuke/tfaction) to solve problems through software.
 
 I also write blogs actively to share knowledge internally and externally.
 
@@ -37,7 +37,7 @@ https://brand.studysapuri.jp/career/position/sre
 In my current position, I am a member of the cross-product SRE team, operating and developing platforms for the company's products.
 I am involved in educational products such as [StudySapuri Elementary/Junior High/High School Courses and University Entrance Exam Courses for Japan](https://studysapuri.jp/) and [Quipper Video and Quipper School for overseas](https://www.quipper.com/).
 
-I work as a member of a team of about 7 people.
+I work as a member of a team of about seven people.
 
 The product is mainly running on AWS EKS, with some use of GCP.
 
@@ -52,7 +52,7 @@ The product is mainly running on AWS EKS, with some use of GCP.
 * Develop tools to resolve toils
 
 I have mentioned many things, but the most significant is the improvement of Terraform Monorepo.
-I have divided Terraform State by service and environment, allowing developers to take ownership of their own service infrastructure and develop without SRE.
+I have divided Terraform State by service and environment, allowing developers to take ownership of their service infrastructure and develop without SRE.
 In addition, I have made various improvements as follows.
 
 * [Fork tfnotify and develop tfcmt to make the results of terraform plan and apply easier to understand](https://zenn.dev/shunsuke_suzuki/articles/improve-terraform-cicd-with-tfcmt)
@@ -61,10 +61,10 @@ In addition, I have made various improvements as follows.
   * [2022-02-04 Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 * [Provide GitHub Actions workflow for Scaffolding](https://suzuki-shunsuke.github.io/tfaction/docs/feature/scaffold-working-dir)
 * [Automatically format code in CI](https://suzuki-shunsuke.github.io/tfaction/docs/feature/auto-fix)
-* [validation by tflint, tfsec, and Conftest with clear notification of results](https://suzuki-shunsuke.github.io/tfaction/docs/feature/linter)
-* [Automatic update of Terraform, Terraform Provider, etc with Renovate](https://blog.studysapuri.jp/entry/2022/02/18/080000)
+* [validation by tflint, tfsec, and Conftest with explicit notification of results](https://suzuki-shunsuke.github.io/tfaction/docs/feature/linter)
+* [Automatic update of Terraform, Terraform Provider, etc. with Renovate](https://blog.studysapuri.jp/entry/2022/02/18/080000)
 * [Using Terraform Plan File to apply safely](https://suzuki-shunsuke.github.io/tfaction/docs/feature/plan-file)
-* [Automate follow-up if apply fails](https://suzuki-shunsuke.github.io/tfaction/docs/feature/follow-up-pr)
+* [Automate follow-up if terraform apply fails](https://suzuki-shunsuke.github.io/tfaction/docs/feature/follow-up-pr)
 * [Provide workflow to migrate State with tfmigrate](https://suzuki-shunsuke.github.io/tfaction/docs/feature/tfmigrate)
 * [Consolidate Terraform repositories into a single Monorepo to improve CI maintainability and quality](https://blog.studysapuri.jp/entry/2021/04/01/080000)
 * [Migrate tools other than Terraform (miam, roadworker) to Terraform to improve Developer Experience](https://blog.studysapuri.jp/entry/2021/08/02/080000)
@@ -81,9 +81,9 @@ In addition, I have made various improvements as follows.
 * MongoDB (MCM, Atlas)
 * Terraform, Ansible
 * Renovate
-  * Renovate is easy to introduce, but requires a high level of expertise to reduce the human burden and operate it safely and without strain. I have tuned the configuration of various repositories including Terraform Monorepo
+  * Renovate is easy to introduce but requires a high level of expertise to reduce the human burden and operate it safely and without strain. I have tuned the configuration of various repositories, including Terraform Monorepo
 * Conftest
-  * I have implemented our internal policies regarding Terraform and k8s manifests with Conftet. I have written the document for each Policy to provide clear guidance to users. We have also introduced automatic formatting with opa fmt and Policy Testing.
+  * I have implemented our internal policies regarding Terraform and k8s manifests with Conftest. I have written the document for each Policy to provide clear guidance to users. We have also introduced automatic formatting with opa fmt and Policy Testing.
   * ref. [Conftest の Policy 違反を分かりやすくする](https://zenn.dev/shunsuke_suzuki/articles/improve-cicd-with-github-comment#conftest-%E3%81%AE-policy-%E9%81%95%E5%8F%8D%E3%82%92%E5%88%86%E3%81%8B%E3%82%8A%E3%82%84%E3%81%99%E3%81%8F%E3%81%99%E3%82%8B)
   * ref. [OPA で Table Driven Tests っぽいことをしてみる](https://techblog.szksh.cloud/opa-table-driven-test/)
 
@@ -91,9 +91,9 @@ In addition, I have made various improvements as follows.
 
 At LINE Corporation, I developed and operated internal systems as a Corporate Engineer.
 I developed tools to integrate data between systems using Go and Python, and operated internal systems such as Confluence and GitHub Enterprise.
-LINE has its own Private Cloud, so rather than utilizing cloud services, I utilizes OSS such as Drone and Graylog.
+LINE has its Private Cloud, so rather than utilizing cloud services, I utilize OSS such as Drone and Graylog.
 [I introduced Drone instead of Jenkins to improve CI](https://engineering.linecorp.com/ja/blog/detail/218/), and Graylog for secure log management.
-Drone was originally introduced for internal use in our department, but it was well received and spread throughout the company.
+Drone was originally introduced for internal use in our department, but it was well-received and spread throughout the company.
 
 ### Technical Stack
 
@@ -107,9 +107,9 @@ Drone was originally introduced for internal use in our department, but it was w
 ## Donuts (Web Application Engineer): 2015-04-01 ~ 2017-03-31
 
 I joined Donuts as a new graduate as a Web Application Engineer and developed our web services.
-I experienced a wide range of processes (design, development, testing, release) and technical areas (Frontend, Backend, Infrastructure).
+I experienced various processes (design, development, testing, release) and technical areas (Frontend, Backend, Infrastructure).
 
-### Techinical Stack
+### Technical Stack
 
 * Python, JavaScript
 * MySQL
@@ -121,13 +121,13 @@ I experienced a wide range of processes (design, development, testing, release) 
 ## Blog
 
 I published what I did in my work on the corporate blog and my OSS on my personal blog.
-I write mostly in Japanese, but sometimes I also write in English.
+I write mainly in Japanese, but sometimes I also write in English.
 
 https://suzuki-shunsuke.github.io/profile/blog
 
 ## Contribute to OSS
 
-I contribute to various OSS, most notably [Terraform Docker Provider](https://github.com/kreuzwerker/terraform-provider-docker) and [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).
+I contribute to various OSS, notably [Terraform Docker Provider](https://github.com/kreuzwerker/terraform-provider-docker) and [Terraform AWS Provider](https://github.com/hashicorp/terraform-provider-aws).
 Especially, I contribute to Terraform Docker Provider as a Collaborator.
 
 [List of Contributions by Pull Request](https://suzuki-shunsuke.github.io/profile/oss-contribution)
