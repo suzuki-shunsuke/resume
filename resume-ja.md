@@ -25,21 +25,28 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 
 在籍期間 | 企業名 | ポジション | ロール
 --- | --- | --- | ---
-2021-10 / 現在 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
+2022-07 / 現在 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
+2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
 
-## 現職: Recruit, Quipper (SRE) 2019-10-01 ~
+## 現職: Mercari (Platform Engineer) 2022-07-01 ~ 現在
+
+[Software Engineer, Platform Group - Mercari](https://apply.workable.com/mercari/j/111722DA96/)
+
+現職では Mercari の Platform Group で Platform Engineer をやっています。
+
+## Recruit, Quipper (SRE) 2019-10-01 ~ 2022-06-30
 
 https://brand.studysapuri.jp/career/position/sre
 
-現職ではプロダクト横断の SRE チームのメンバーとして自社プロダクトのためのプラットフォームの運用・開発を行っています。
-国内向けの「スタディサプリ小・中・高校講座、大学受験講座」、海外向けの「Quipper Video, Quipper School」といった教育に関するプロダクトに関わっています。
+プロダクト横断の SRE チームのメンバーとして自社プロダクトのためのプラットフォームの運用・開発を行っていました。
+国内向けの「スタディサプリ小・中・高校講座、大学受験講座」、海外向けの「Quipper Video, Quipper School」といった教育に関するプロダクトに関わっていました。
 
-7 人ほどのチームの 1 メンバーとして仕事しています。
+7 人ほどのチームの 1 メンバーとして仕事していました。
 
-プロダクトは主に AWS の EKS 上で動いており、 GCP も一部使っています。
+プロダクトは主に AWS の EKS 上で動いており、 GCP も一部使っていました。
 
 * Terraform Monorepo の改善
 * AWS Organizations, Control Tower, SSO の導入
@@ -51,8 +58,8 @@ https://brand.studysapuri.jp/career/position/sre
 * Go で MongoDB Atlas のリストアジョブの実装
 * トイルを解消するためのツールの開発
 
-色々挙げましたが、特に大きいのは Terraform Monorepo の改善です。
-こちらについては会社のブログで詳細を公開していますし、 HashiTalks Japan 2021 でも登壇しています。
+色々挙げましたが、特に大きいのは Terraform Monorepo の改善でした。
+こちらについては会社のブログで詳細を公開していますし、 [HashiTalks Japan 2021](https://events.hashicorp.com/hashitalksjapan2021) でも登壇しました。
 Terraform State をサービス・環境ごとに分割し、開発者が自分たちのサービスのインフラに関しオーナーシップを持ち、 SRE に依存することなく開発を進められる体制を整えました。
 更に、以下のような様々な改善を行いました。
 

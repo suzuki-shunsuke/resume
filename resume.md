@@ -25,21 +25,26 @@ Note that the change in affiliation from Quipper to Recruit is due to a reorgani
 
 term | Company | Position | Role
 --- | --- | --- | ---
-2021-10 / Now | [Recruit](https://www.recruit.co.jp/) | SRE | Member
+2022-07 / Now | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
+2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
 
-## Current Position: Recruit, Quipper (SRE) 2019-10-01 / Now
+## Current Position: Mercari (Platform Engineer) 2022-07-01 / Now
+
+[Software Engineer, Platform Group - Mercari](https://apply.workable.com/mercari/j/111722DA96/)
+
+## Recruit, Quipper (SRE) 2019-10-01 / 2022-06-30
 
 https://brand.studysapuri.jp/career/position/sre
 
-In my current position, I am a member of the cross-product SRE team, operating and developing platforms for the company's products.
-I am involved in educational products such as [StudySapuri Elementary/Junior High/High School Courses and University Entrance Exam Courses for Japan](https://studysapuri.jp/) and [Quipper Video and Quipper School for overseas](https://www.quipper.com/).
+I was a member of the cross-product SRE team, operating and developing platforms for the company's products.
+I was involved in educational products such as [StudySapuri Elementary/Junior High/High School Courses and University Entrance Exam Courses for Japan](https://studysapuri.jp/) and [Quipper Video and Quipper School for overseas](https://www.quipper.com/).
 
-I work as a member of a team of about seven people.
+I worked as a member of a team of about seven people.
 
-The product is mainly running on AWS EKS, with some use of GCP.
+The product was mainly running on AWS EKS, with some use of GCP.
 
 * Improve Terraform Workflow
 * Introduce AWS Organizations, AWS Control Tower, and AWS SSO
