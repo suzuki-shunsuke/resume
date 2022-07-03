@@ -33,9 +33,7 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 
 ## 現職: Mercari (Platform Engineer) 2022-07-01 ~ 現在
 
-[Software Engineer, Platform Group - Mercari](https://apply.workable.com/mercari/j/111722DA96/)
-
-現職では Mercari の Platform Group で Platform Engineer をやっています。
+現職では Mercari の [Platform Group](https://apply.workable.com/mercari/j/111722DA96/) の [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) で Platform Engineer をやっています。
 
 ## Recruit, Quipper (SRE) 2019-10-01 ~ 2022-06-30
 

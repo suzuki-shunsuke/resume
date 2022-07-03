@@ -33,7 +33,7 @@ term | Company | Position | Role
 
 ## Current Position: Mercari (Platform Engineer) 2022-07-01 / Now
 
-[Software Engineer, Platform Group - Mercari](https://apply.workable.com/mercari/j/111722DA96/)
+I work as a Platform Engineer at Mercari [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) of [Platform Group](https://apply.workable.com/mercari/j/111722DA96/).
 
 ## Recruit, Quipper (SRE) 2019-10-01 / 2022-06-30
 
