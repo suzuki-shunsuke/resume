@@ -6,7 +6,7 @@
 
 2015 年から約 8 年間ソフトウェアエンジニアとして従事し、 Backend Engineer や Corporate Engineer を経て現在は SRE や Platform Engineer として活動しています。
 現職では 2022/07 より Mercari で Platform Engineer として Platform の開発を行っています。
-プロダクトチームが自己完結的に開発からリリースまで行えるよう、セルフサービス化やツール・ CI/CD Pipline の開発・運用を行っています。
+プロダクトチームが自己完結的に開発からリリースまで行えるよう、セルフサービス化やツール・ CI/CD Pipeline の開発・運用を行っています。
 特に Terraform Monorepo の workflow の改善に数年取り組んでおり、プロダクトチームが Terraform を使って安全かつ快適に自分たちでプロダクトのインフラを用意できる環境づくりをしています。
 
 OSS への貢献や開発にも力を入れており、 [aqua](https://aquaproj.github.io/) や [tfcmt](https://github.com/suzuki-shunsuke/tfcmt), [tfaction](https://github.com/suzuki-shunsuke/tfaction) を始めとした様々なツールを開発し、ソフトウェアによる問題解決に取り組んでいます。
