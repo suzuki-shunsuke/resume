@@ -37,7 +37,7 @@ I work as a Platform Engineer for Mercari [Platform Developer Experience (DX) te
 - Introduce Renovate, [aqua](https://aquaproj.github.io/), [tfcmt](https://github.com/suzuki-shunsuke/tfcmt), [github-comment](https://github.com/suzuki-shunsuke/github-comment), [tfmigrate](https://github.com/minamijoyo/tfmigrate)
 - Improve CI/CD Pipelines
 
-We Platform DX team develops various tools to improve Developer Experience, and I also develop these tools.
+We Platform DX team develops various tools to improve Developer Experience, and I also contribute to these tools.
 
 Our Terraform Monorepo is a very large and has over 1,000 Terraform States, so the automation is integral to apply changes across all working directories.
 Hence we automate to create pull requests, migrate Terraform States, and merge pull requests safely.
