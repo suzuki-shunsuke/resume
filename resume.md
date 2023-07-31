@@ -42,7 +42,7 @@ We Platform DX team develops various tools to improve Developer Experience, and 
 Our Terraform Monorepo is a very large and has over 1,000 Terraform States, so the automation is integral to apply changes across all working directories.
 Hence we automate to create pull requests, migrate Terraform States, and merge pull requests safely.
 
-I introduced tfmigrate to our CI so that we can migrate Terraform States via CI.
+I introduced tfmigrate to our CI so that we could migrate Terraform States via CI.
 Before only Platform Group members could migrate Terraform States and it needed manual operations, but tfmigrate enabled every developers to migrate Terraform States via CI safely.
 Using tfmigrate I also imported a lot of BigQuery DataSets into our Terraform Monorepo to manage them by Terraform.
 
