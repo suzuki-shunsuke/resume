@@ -4,7 +4,7 @@
 
 ## 要約
 
-2015 年から約 8 年間ソフトウェアエンジニアとして従事し、 Backend Engineer や Corporate Engineer を経て現在は SRE や Platform Engineer として活動しています。
+2015 年から約 9 年間ソフトウェアエンジニアとして従事し、 Backend Engineer や Corporate Engineer を経て現在は SRE や Platform Engineer として活動しています。
 現職では 2022/07 より Mercari で Platform Engineer として開発者向けにツールの開発や技術支援、 CI/CD の改善などを行っています。
 前職では Recruit で SRE としてサービスの信頼性改善に取り組みつつ、プロダクトチームが自己完結的に開発からリリースまで行えるよう、セルフサービス化やツール・ CI/CD Pipeline の開発・運用を行いました。
 特に Terraform Monorepo の workflow の改善に数年取り組んでおり、プロダクトチームが Terraform を使って安全かつ快適に自分たちでプロダクトのインフラを用意できる環境づくりをしています。
@@ -19,7 +19,8 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 
 在籍期間 | 企業名 | ポジション | ロール
 --- | --- | --- | ---
-2022-07 / 現在 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
+2024-08 / Now | . | . | .
+2022-07 / 2024-07 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
 2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Corporate Engineer | Member
@@ -28,6 +29,8 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 ## 現職: Mercari (Platform Engineer) 2022-07-01 ~ 現在
 
 現職では Mercari の [Platform Group](https://apply.workable.com/mercari/j/111722DA96/) の [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) で Platform Engineer として、 Product 開発を支援するツールや CI/CI pipeline の開発を行っています。 7 人ほどのチームの 1 メンバーとして仕事しています。
+幾つかの Project のリードを担当しています。
+主に以下のようなことに携わっています。
 
 - Terraform Module や [k8s-kit](https://engineering.mercari.com/blog/entry/20220127-kubernetes-configuration-management-with-cue/), ChatBot の開発
 - Terraform や Terraform Module, Provider の Upgrade

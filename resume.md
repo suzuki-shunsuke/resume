@@ -4,7 +4,7 @@
 
 ## Summary
 
-I've been working as a software engineer for about eight years since 2015, and now I work as SRE and Platform Engineer after experiencing Backend Engineer and Corporate Engineer.
+I've been working as a software engineer for about nine years since 2015, and now I work as SRE and Platform Engineer after experiencing Backend Engineer and Corporate Engineer.
 
 In my current position, I've been developing a Platform for our products as a Platform Engineer for Mercari.
 
@@ -21,7 +21,8 @@ Note that the change in affiliation from Quipper to Recruit is due to a reorgani
 
 term | Company | Position | Role
 --- | --- | --- | ---
-2022-07 / Now | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
+2024-08 / Now | . | . | .
+2022-07 / 2024-07 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
 2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer | Member
