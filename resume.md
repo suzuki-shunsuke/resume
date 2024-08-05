@@ -28,9 +28,9 @@ term | Company | Position | Role
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
 
-## Current Position: Mercari (Platform Engineer) 2022-07-01 / Now
+## Mercari (Platform Engineer) 2022-07-01 / 2024-07-31
 
-I work as a Platform Engineer for Mercari [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) of [Platform Group](https://apply.workable.com/mercari/j/111722DA96/).
+I worked as a Platform Engineer for Mercari [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) of [Platform Group](https://apply.workable.com/mercari/j/111722DA96/).
 
 - Develop tools such as Terraform Modules, [k8s-kit](https://engineering.mercari.com/blog/entry/20220127-kubernetes-configuration-management-with-cue/), ChatBot, and so on
 - Upgrade Terraform, Terraform Modules, and Terraform Providers
@@ -38,10 +38,10 @@ I work as a Platform Engineer for Mercari [Platform Developer Experience (DX) te
 - Introduce Renovate, [aqua](https://aquaproj.github.io/), [tfcmt](https://github.com/suzuki-shunsuke/tfcmt), [github-comment](https://github.com/suzuki-shunsuke/github-comment), [tfmigrate](https://github.com/minamijoyo/tfmigrate)
 - Improve CI/CD Pipelines
 
-We Platform DX team develops various tools to improve Developer Experience, and I also contribute to these tools.
+Platform DX team develops various tools to improve Developer Experience, and I also contributed to these tools.
 
-Our Terraform Monorepo is a very large and has over 1,000 Terraform States, so the automation is integral to apply changes across all working directories.
-Hence we automate to create pull requests, migrate Terraform States, and merge pull requests safely.
+Terraform Monorepo was a very large and had over 1,000 Terraform States, so the automation was integral to apply changes across all working directories.
+Hence we automated to create pull requests, migrate Terraform States, and merge pull requests safely.
 
 I introduced tfmigrate to our CI so that we could migrate Terraform States via CI.
 Before only Platform Group members could migrate Terraform States and it needed manual operations, but tfmigrate enabled every developers to migrate Terraform States via CI safely.

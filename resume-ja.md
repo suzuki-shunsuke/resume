@@ -26,11 +26,11 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Corporate Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
 
-## 現職: Mercari (Platform Engineer) 2022-07-01 ~ 現在
+## Mercari (Platform Engineer) 2022-07-01 ~ 2024-07-31
 
-現職では Mercari の [Platform Group](https://apply.workable.com/mercari/j/111722DA96/) の [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) で Platform Engineer として、 Product 開発を支援するツールや CI/CI pipeline の開発を行っています。 7 人ほどのチームの 1 メンバーとして仕事しています。
-幾つかの Project のリードを担当しています。
-主に以下のようなことに携わっています。
+Mercari の [Platform Group](https://apply.workable.com/mercari/j/111722DA96/) の [Platform Developer Experience (DX) team](https://engineering.mercari.com/en/blog/entry/20220125-developer-experience-at-mercari/) で Platform Engineer として、 Product 開発を支援するツールや CI/CI pipeline の開発を行っていました。 7 人ほどのチームの 1 メンバーとして仕事していました。
+幾つかの Project のリードを担当していました。
+主に以下のようなことに携わっていました。
 
 - Terraform Module や [k8s-kit](https://engineering.mercari.com/blog/entry/20220127-kubernetes-configuration-management-with-cue/), ChatBot の開発
 - Terraform や Terraform Module, Provider の Upgrade
@@ -42,9 +42,9 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
   - [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) の導入
   - [tfmigrate](https://github.com/minamijoyo/tfmigrate) の導入
 
-Platform DX team では Platform の Developer Experience を高めるべく様々なツールを開発しており、私も日々それらの開発を行っています。
+Platform DX team では Platform の Developer Experience を高めるべく様々なツールを開発しており、私も日々それらの開発を行っていました。
 
-Mercari の Terraform Monorepo は Terraform State の数が 1,000 を超える非常に大きな Monorepo であり、全 working directory に対して Module の upgrade などの変更を適用する場合、自動化が不可欠です。そこで Pull Request の作成から Terraform State の Migration, Merge まで安全に行う workflow を実装しています。
+Mercari の Terraform Monorepo は Terraform State の数が 1,000 を超える非常に大きな Monorepo であり、全 working directory に対して Module の upgrade などの変更を適用する場合、自動化が不可欠です。そこで Pull Request の作成から Terraform State の Migration, Merge まで安全に行う workflow を実装していました。
 
 tfmigrate を導入し、 CI を通じて Terraform State 操作を行えるようにもしました。これまで管理者のみが手作業が行っていた State 操作をコードで誰でも安全に行えるようになり、履歴も残るようになりました。この仕組みを活用し、歴史的経緯によりコード管理されていなかった大量の BigQuery DataSet の import も行い、 Terraform を使って管理するようにしました。
 
