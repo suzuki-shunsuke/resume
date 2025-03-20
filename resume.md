@@ -4,7 +4,7 @@
 
 ## Summary
 
-I've been working as a software engineer for about nine years since 2015, and now I work as SRE and Platform Engineer after experiencing Backend Engineer and Corporate Engineer.
+I've been working as a software engineer for about ten years since 2015, and now I work as SRE and Platform Engineer after experiencing Backend Engineer and Corporate Engineer.
 
 In my current position, I've been developing a Platform for our products as a Platform Engineer for Mercari.
 
