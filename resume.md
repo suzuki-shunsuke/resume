@@ -21,12 +21,14 @@ Note that the change in affiliation from Quipper to Recruit is due to a reorgani
 
 term | Company | Position | Role
 --- | --- | --- | ---
-2024-08 / Now | . | . | .
+2024-08 / Now | [freee](https://corp.freee.co.jp/en/company/) | SRE | TL
 2022-07 / 2024-07 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
 2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
+
+## freee (SRE) 2024-08-01 ~
 
 ## Mercari (Platform Engineer) 2022-07-01 / 2024-07-31
 

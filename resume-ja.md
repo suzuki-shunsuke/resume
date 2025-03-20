@@ -4,7 +4,7 @@
 
 ## 要約
 
-2015 年から約 9 年間ソフトウェアエンジニアとして従事し、 Backend Engineer や Corporate Engineer を経て現在は SRE や Platform Engineer として活動しています。
+2015 年から約 10 年間ソフトウェアエンジニアとして従事し、 Backend Engineer や Corporate Engineer を経て現在は SRE や Platform Engineer として活動しています。
 現職では 2022/07 より Mercari で Platform Engineer として開発者向けにツールの開発や技術支援、 CI/CD の改善などを行っています。
 前職では Recruit で SRE としてサービスの信頼性改善に取り組みつつ、プロダクトチームが自己完結的に開発からリリースまで行えるよう、セルフサービス化やツール・ CI/CD Pipeline の開発・運用を行いました。
 特に Terraform Monorepo の workflow の改善に数年取り組んでおり、プロダクトチームが Terraform を使って安全かつ快適に自分たちでプロダクトのインフラを用意できる環境づくりをしています。
@@ -19,12 +19,14 @@ Quipper から Recruit への所属の変更は、 Recruit の組織再編によ
 
 在籍期間 | 企業名 | ポジション | ロール
 --- | --- | --- | ---
-2024-08 / Now | . | . | .
+2024-08 / Now | [freee](https://corp.freee.co.jp/) | SRE | TL
 2022-07 / 2024-07 | [Mercari](https://about.mercari.com/) | Platform Engineer | Member
 2021-10 / 2022-06 | [Recruit](https://www.recruit.co.jp/) | SRE | Member
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE | Member
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Corporate Engineer | Member
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer | Member, Tech Lead
+
+## freee (SRE) 2024-08-01 ~
 
 ## Mercari (Platform Engineer) 2022-07-01 ~ 2024-07-31
 
